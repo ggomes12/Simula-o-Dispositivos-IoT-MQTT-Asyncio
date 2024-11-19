@@ -94,4 +94,4 @@ A função **`principal`** configura o cliente MQTT, estabelece a conexão com o
 Ao rodar o código, você verá mensagens como as seguintes no terminal:
 
 
-![Testes do simulador](images/imagem.jpg)
+![Testes do simulador](images/resultado.png)
