@@ -37,8 +37,8 @@ Além disso, o código gerencia dinamicamente os tópicos, adicionando ou remove
 
 1. Clone o repositório:
    ```bash
-   git clone git@github.com:ggomes12/Simula-o-Dispositivos-IoT-MQTT-Asyncio.git
-   cd Simula-o-Dispositivos-IoT-MQTT-Asyncio
+   git clone git@github.com:ggomes12/Simulador-Dispositivos-IoT-MQTT-Asyncio.git
+   cd Simulador-Dispositivos-IoT-MQTT-Asyncio
    ```
 2. Instale as dependências:
    ```bash
